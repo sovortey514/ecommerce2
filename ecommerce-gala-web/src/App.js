@@ -8,6 +8,8 @@ function App() {
     <div>
      <ProductPage/>
      <HomePage/>
+     what is your name?
+     My name is what
     </div>
   );
 }
